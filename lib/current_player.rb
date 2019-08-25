@@ -15,7 +15,7 @@ def current_player(board)
   else
     puts "O"
   end
-end 
+end
 board1 = ["O", " ", " ", " ", "X", " ", " ", " ", "X"]
 turn_count(board1)
 current_player(board1)
