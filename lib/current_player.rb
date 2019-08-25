@@ -8,5 +8,3 @@ def turn_count(board)
   count= 9 - counter
   puts count
 end
-board1 = ["O", " ", " ", " ", "X", " ", " ", " ", "X"]
-turn_count(board1)
